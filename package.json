@@ -1,0 +1,13 @@
+{
+  "name": "heartbeat-monitor",
+  "version": "1.0.0",
+  "description": "Heartbeat monitoring utility",
+  "main": "src/index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node test/heartbeat-monitor.test.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
